@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+     
+    padding: 100px;
+    /* width: 60%; */
+    
+    justify-content: center;
+    
+}
+*{
+    background-color: aquamarine;
+    /* border: 2px solid black; */
+
+}
+
+
+h1{
+    color: red;
+    font-size: 60px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-shadow: 4px 4px 10px rgb(5, 5, 6);
+}
+p{
+    color: rgb(111, 9, 9);
+    font-size: 20px;
+}
+h2{
+    font-size: 30px;
+    color: red;
+}
